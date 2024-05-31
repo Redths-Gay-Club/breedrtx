@@ -1,0 +1,4 @@
+name: BreedRTX
+version: '1.0-SNAPSHOT'
+main: me.ipig.breedrtx.BreedRTX
+api-version: '1.20'

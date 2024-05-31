@@ -1,0 +1,4 @@
+name: BreedRTX
+version: '${project.version}'
+main: me.ipig.breedrtx.BreedRTX
+api-version: '1.20'
